@@ -1,0 +1,5 @@
+{
+  "name": "SkyWise AI",
+  "description": "A precise AI-powered weather assistant with global forecasts and real-time grounding.",
+  "requestFramePermissions": ["geolocation"]
+}
